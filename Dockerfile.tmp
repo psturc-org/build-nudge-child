@@ -1,0 +1,2 @@
+FROM quay.io/psturc_org/build-e2e-ysyp-tenant/gh-multi-component-parent-kudd@sha256:92426055235cea2978e1d36f23b4d23c179aa179ee70e3c9cddc8898c1fa119d
+RUN echo hello
