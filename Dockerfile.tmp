@@ -1,2 +1,2 @@
-FROM quay.io/psturc_org/build-e2e-hdbc/gh-multi-component-parent-qyka@sha256:fe32977ce18eada06779dff5f3960bb42bf978f73d7254a9ff0c46d2f5c88e58
+FROM quay.io/psturc_org/build-e2e-hdbc/gh-multi-component-parent-qyka@sha256:e029d69e0cc675ab8d18bc92fc6c581c39585e3bd6afa3a61ee5fb6eb850de05
 RUN echo hello
