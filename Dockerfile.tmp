@@ -1,0 +1,2 @@
+FROM quay.io/psturc_org/build-e2e-wnsf/gh-multi-component-parent-zpid@sha256:c973d355c815fd1f7f9b4c3a148cfbbf245f4790cdf79e2e66ebc76419c8856d
+RUN echo hello
