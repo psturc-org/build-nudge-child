@@ -1,0 +1,2 @@
+FROM quay.io/psturc_org/build-e2e-ifel/gh-multi-component-parent-uhbd@sha256:27565c446d56b18fa3302655e4bea231485e9eb814d74ce7c76311721c610729
+RUN echo hello
